@@ -37,7 +37,8 @@ A machine learning model is used to analyze movement patterns and detect anomali
 - Reduced delay in detecting unusual activity  
 
 ## 🖼️ Output
-(Add screenshots here: dashboard / tracking map)
+<img width="985" height="1280" alt="animal tracker" src="https://github.com/user-attachments/assets/9135a035-d0dd-4a5b-9b88-c6cfd114cc4c" />
+
 
 ## 🔮 Future Improvements
 - Deep learning-based behavior prediction  
